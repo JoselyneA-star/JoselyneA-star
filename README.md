@@ -1,7 +1,3 @@
 - 👋 Hi, me presento, mi nombre es Joselyne Alejandra 
-- 👀 me gusta el tema en base de datos.
-- 🌻 soy técnico en ofimática y computación, finalice la carrera de ING. en tecnologías computacionales, estoy certificada en diseño gráfico.
-- 🌱 Me gusta aprender el idioma francés e inglés. 
-- 📫 How to reach me por correo electrónico: jenriquez57863-6@ccpm.edu.mx
-- 😄 Pronouns: Fine, josh, ale...
-- ⚡
+-#saludos_cordiales
+💾🖥️
